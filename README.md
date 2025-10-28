@@ -1,5 +1,4 @@
-DEMO VIDEO: [https://github.com/abdullahcseexe/expo-wallet
-](https://www.youtube.com/shorts/hzczcQ4tW0s?feature=share)
+DEMO VIDEO: https://www.youtube.com/shorts/hzczcQ4tW0s?feature=share
 
 Project Requirements:
 For better processing of backend, install nodemon 
